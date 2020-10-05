@@ -9,7 +9,6 @@ Currently working on demo project : Online Learning platform (building using Rea
 
 ## https://greentree-learnings.netlify.app/
 
-# Course Completed: 
 
 
 
