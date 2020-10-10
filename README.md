@@ -7,7 +7,7 @@
 
 Currently working on demo project : Online Learning platform (building using ReactJS.)
 
-## https://greentree-learnings.netlify.app/
+## https://swaplearn.netlify.app/
 
 
 
