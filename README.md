@@ -9,7 +9,7 @@ My Sample Project in React :
 
 ## https://kodedge.github.io/robohash/
 
-Demo project : Online Learning platform (building using ReactJS, bootstrap and contentful as a backend.)
+Demo project : Online Learning platform (using ReactJS, bootstrap and contentful as a backend.)
 
 ## https://swaplearn.netlify.app/
 
