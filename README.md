@@ -19,10 +19,6 @@ https://github.com/swapneelgosavi/React-Native-Mobile-Apps
 ### https://kodedge.github.io/robohash/
 
 
-## - Demo project : Online Learning platform (using ReactJS, bootstrap and contentful as a backend.)
-### https://swaplearn.netlify.app/
-
-
 Repository of my lectures:
 https://github.com/kodedge
 
