@@ -12,7 +12,7 @@
 https://github.com/swapneelgosavi/React-Projects
 
 ## - React Native - Mobile Application :
-https://github.com/swapneelgosavi/React-Native-Mobile-Apps/blob/main/README.md
+https://github.com/swapneelgosavi/React-Native-Mobile-Apps
 
 ## - Sample Link of React project :
 
