@@ -7,7 +7,7 @@
 
  I have a sample projects in all the techologies mentioned above.
 
-## - Spring Microservices Project :
+## - Microservices using Spring:
 ### https://github.com/swapneelgosavi/SpringProjects
 
 ## - React Project :
